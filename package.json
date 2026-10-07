@@ -23,7 +23,7 @@
     "gulp-replace": "^0.5.4",
     "jsdom": "^9.9.1",
     "jsdom-global": "^2.1.1",
-    "karma": "^1.1.0",
+    "karma": "^6.4.4",
     "karma-browserify": "^5.0.5",
     "karma-chai": "^0.1.0",
     "karma-chrome-launcher": "^1.0.1",
